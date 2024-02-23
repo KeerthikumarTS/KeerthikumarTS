@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://main--sprightly-kulfi-cc2ff0.netlify.app/](https://main--sprightly-kulfi-cc2ff0.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/portfolio-keerthikumar)
 
 - 💬 Ask me about **MERN**
 
