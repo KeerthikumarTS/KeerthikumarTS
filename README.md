@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/portfolio-keerthikumar)
+- 👨‍💻 All of my projects are available here at my [Portfolio](https://bit.ly/portfolio-keerthikumar)
 
 - 💬 Ask me about **MERN**
 
